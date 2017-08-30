@@ -2,10 +2,10 @@
   "name": "wiseshrimp",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "http-server": "^0.10.0"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "http-server -o"
   }
